@@ -1,0 +1,1 @@
+2- Resposta C.  Programação orientada a objetos, pois ela permite organizar as informações do sistema em objetos que possuem características próprias como os livros, autores, etc. 
